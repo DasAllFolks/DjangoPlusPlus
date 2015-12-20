@@ -10,15 +10,15 @@ This is an experimental project aiming to construct a very Django-like web frame
 
 The project goal is to produce a web framework which is...
 
-# **Cleanly designed:**  In particular, issues of front-end display should be as strictly separated from back-end engineering as possible
-# **Cleanly coded:** In the words of Abelson & Sussman, [https://mitpress.mit.edu/sicp/front/node3.html](https://mitpress.mit.edu/sicp/front/node3.html)
-# **Well-documented**
-# **Easy to learn**
-# **Not overly bloated with features**
-# **Emphasizes developer productivity and convenience, while allowing for more advanced customization and performance-tuning when necessary**
-# **Well-tested**
-# **Performant**
-# **Licensed for flexibility**
+  1. **Cleanly designed:**  In particular, issues of front-end display should be as strictly separated from back-end engineering as possible
+  2. **Cleanly coded:** In the words of Abelson & Sussman, [https://mitpress.mit.edu/sicp/front/node3.html](https://mitpress.mit.edu/sicp/front/node3.html)
+  3. **Well-documented**
+  4. **Easy to learn**
+  5. **Not overly bloated with features**
+  6. **Emphasizes developer productivity and convenience, while allowing for more advanced customization and performance-tuning when necessary**
+  7. **Well-tested**
+  8. **Performant**
+  9. **Licensed for flexibility**
 
 ## License
 
