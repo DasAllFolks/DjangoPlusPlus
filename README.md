@@ -19,7 +19,6 @@ The project goal is to produce a web framework which is...
   7. **Well-tested**
   8. **Performant**
   9. **Licensed for flexibility**
-  10. 
   
 ## Development
 
