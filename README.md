@@ -4,7 +4,7 @@
 
 ## Motivation
 
-[Django](https://www.djangoproject.com) is an intuitive and beautifully designed web framework ideal for rapid web development and easy code maintenance; however, [it often leaves a tremendous amount to be desired in performance scaling compared to many other web frameworks](http://www.infoq.com/news/2014/05/benchmark-web-framework) unless you undertake [extensive performance tuning](https://highperformancedjango.com/).
+[Django](https://www.djangoproject.com) is an intuitive and beautifully designed web framework ideal for rapid web development and easy code maintenance; however, [it often leaves much to be desired in scalability](http://www.infoq.com/news/2014/05/benchmark-web-framework) unless you undertake [extensive performance tuning](https://highperformancedjango.com/).
 
 Thus, this is an experimental project aiming to construct a very Django-like web framework...except that it's written purely in C++.
 
